@@ -1,0 +1,19 @@
+
+Probability and Statictics
+Assignment-2
+
+1)For Minimum Mean Absolute Error
+Mean Absolute error    Mean Squared Error     Selected Combination of Features
+0.27417                0.19055                SJR,H index,Total Docs. (2017),Total Docs. (3years),Total Refs.,Total Cites (3years),Cites / Doc. (2years),Ref. / Doc.,
+0.27448                0.19051                SJR,H index,Total Docs. (2017),Total Docs. (3years),Total Refs.,Cites / Doc. (2years),Ref. / Doc.,
+0.27486                0.19238                SJR,Total Docs. (2017),Total Docs. (3years),Total Refs.,Total Cites (3years),Cites / Doc. (2years),Ref. / Doc.,
+0.27518                0.19119                SJR,H index,Total Docs. (2017),Total Refs.,Total Cites (3years),Citable Docs. (3years),Cites / Doc. (2years),Ref. / Doc.,
+0.27521                0.19123                SJR,H index,Total Docs. (2017),Total Refs.,Citable Docs. (3years),Cites / Doc. (2years),Ref. / Doc.,
+
+2)For Minimum Mean Squared Error
+Mean Absolute error    Mean Squared Error     Selected Combination of Features
+0.27836                0.19046                SJR,H index,Total Docs. (3years),Total Cites (3years),Cites / Doc. (2years),Ref. / Doc.,
+0.27448                0.19051                SJR,H index,Total Docs. (2017),Total Docs. (3years),Total Refs.,Cites / Doc. (2years),Ref. / Doc.,
+0.27417                0.19055                SJR,H index,Total Docs. (2017),Total Docs. (3years),Total Refs.,Total Cites (3years),Cites / Doc. (2years),Ref. / Doc.,
+0.27900                0.19059                SJR,H index,Total Cites (3years),Citable Docs. (3years),Cites / Doc. (2years),Ref. / Doc.,
+0.27894                0.19075                SJR,H index,Citable Docs. (3years),Cites / Doc. (2years),Ref. / Doc.,
